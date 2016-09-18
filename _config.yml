@@ -1,6 +1,6 @@
 # main text of home
 name: Krzysztof Piasecki
-bio: A Man who loves a blue sky
+bio: A man who loves a blue sky
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -10,7 +10,7 @@ description: A blog about technology and stuff related
 external-image: false
 picture: assets/images/profile.jpg
 
-url: http://127.0.0.1
+url: http://krzysiekpiasecki.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -40,21 +40,15 @@ spotify: myspotify
 github: mygithub
 # medium: medium
 # vimeo: myvimeo
-email: myemail@gmail.com
+email: krzysiekpiasecki@gmail.com
 
 authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+    krzysiekpiasecki:
+        name: Krzysztof Piasecki
+        bio: A man who loves a blue sky
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
+        twitter: krzysztek
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -69,7 +63,7 @@ width: normal
 projects: true
 
 # if you don't need "about" or "blog", comment them out below
-about: false
+about: true
 blog: true
 
 # do you want to show the "read time" of the posts?
