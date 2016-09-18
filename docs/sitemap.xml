@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://127.0.0.1/markdown-extra-components/</loc>
+<lastmod>2016-02-24T22:48:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://127.0.0.1/markdown-common-elements/</loc>
+<lastmod>2016-02-24T22:44:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://127.0.0.1/indigo-jekyll-theme/</loc>
+<lastmod>2016-01-23T22:10:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://127.0.0.1/about/</loc>
+</url>
+<url>
+<loc>http://127.0.0.1/blog/</loc>
+</url>
+<url>
+<loc>http://127.0.0.1/</loc>
+</url>
+<url>
+<loc>http://127.0.0.1/projects/</loc>
+</url>
+<url>
+<loc>http://127.0.0.1/tags/</loc>
+</url>
+</urlset>
