@@ -1,9 +1,9 @@
 # main text of home
 name: Krzysztof Piasecki
-bio: A man who loves a blue sky
+bio: A man who loves the blue sky 
 
 # twitter summary info
-description: A blog about technology and stuff related
+# description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
@@ -30,14 +30,14 @@ disqus: mydisqus
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-twitter: mytwitter
+# twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: krzysiek-piasecki-1010179b
 # youtube: myyoutube
-spotify: myspotify
-github: mygithub
+# spotify: myspotify
+github: krzysiekpiasecki
 # medium: medium
 # vimeo: myvimeo
 email: krzysiekpiasecki@gmail.com
@@ -45,7 +45,7 @@ email: krzysiekpiasecki@gmail.com
 authors:
     krzysiekpiasecki:
         name: Krzysztof Piasecki
-        bio: A man who loves a blue sky
+        bio: A man who loves the blue sky
         external-image: false
         picture: assets/images/profile.jpg
         twitter: krzysztek
@@ -60,10 +60,10 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+projects: false
 
 # if you don't need "about" or "blog", comment them out below
-about: true
+about: false
 blog: true
 
 # do you want to show the "read time" of the posts?
@@ -79,7 +79,7 @@ related: true
 blog-nav-links: false
 
 # show author block at the end of a post ?
-show-author: true
+show-author: false
 
 # do you want some animations?
 animation: true
